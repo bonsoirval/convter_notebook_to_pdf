@@ -1,4 +1,4 @@
-# convter_notebook_to_pdf
+# Convert Jupyter Notebook To pdf
 How To Convert Jupyter Notebook To pdf
 Many times, after your data analysis and machine learning tasks, you would want to convert to pdf. You would require nbconvert which depends on xelatex most times (at least on linux platform) and which did not install in my Debian 12.
 The following is how I was able to convert to pdf. 
